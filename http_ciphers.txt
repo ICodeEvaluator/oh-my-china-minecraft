@@ -1,0 +1,1 @@
+You can use the Development Version of NEMC，and crate a http or socket server to call methods of framework/utility.py(vanilla.mcp)
